@@ -2,7 +2,6 @@
 BasedOnStyle: LLVM
 IndentWidth:  4
 ---
-Language:					  Cpp
 AlignAfterOpenBracket: Align
 AlignConsecutiveMacros: 'true'
 AlignConsecutiveAssignments: 'true'
@@ -58,5 +57,4 @@ SpacesInContainerLiterals: 'true'
 SpacesInParentheses: 'true'
 SpacesInSquareBrackets: 'true'
 UseTab: Never
-
 ...
